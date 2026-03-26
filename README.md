@@ -1,0 +1,33 @@
+# juanjopaya.com
+
+Personal blog and portfolio built with [Hugo](https://gohugo.io/) and hosted on [GitHub Pages](https://pages.github.com/).
+
+[![Deploy Hugo site to Pages](https://github.com/jupaygon/juanjopaya-web/actions/workflows/hugo.yaml/badge.svg)](https://github.com/jupaygon/juanjopaya-web/actions/workflows/hugo.yaml)
+
+## Stack
+
+- **SSG:** Hugo
+- **Theme:** [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (dark mode, customized)
+- **Hosting:** GitHub Pages
+- **CI/CD:** GitHub Actions
+- **Domain:** juanjopaya.com
+
+## Local development
+
+```bash
+hugo server --buildDrafts
+```
+
+Open [http://localhost:1313](http://localhost:1313)
+
+## New post
+
+```bash
+hugo new content posts/my-new-post.md
+```
+
+## Author
+
+**Juanjo Payá** — Senior Software Engineer · [GitHub](https://github.com/jupaygon) · [X](https://x.com/jupaygon)
+
+AI-assisted development with [Jarvis](https://github.com/jarvis-aidev) as collaborator.

@@ -1,0 +1,112 @@
+/* Nav layout — switches (theme toggle + lang) after menu items */
+.nav {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.nav .logo {
+    flex-shrink: 0;
+}
+
+.nav #menu {
+    flex: 1;
+}
+
+.nav .logo-switches {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-left: 8px;
+    flex-shrink: 0;
+}
+
+/* Light mode — clean white background everywhere */
+.list {
+    background: var(--theme);
+}
+
+/* Dark tech theme — consistent with X header and project-book aesthetic */
+
+:root {
+    --accent: #00bcd4;
+    --accent-hover: #00acc1;
+}
+
+.dark {
+    --theme: #0d1117;
+    --entry: #161b22;
+    --primary: #e6edf3;
+    --secondary: #8b949e;
+    --tertiary: #21262d;
+    --content: #c9d1d9;
+    --hljs-bg: #161b22;
+    --code-bg: #161b22;
+    --border: #30363d;
+}
+
+/* Accent color for links and highlights */
+.dark .post-title a:hover,
+.dark .entry-hint-parent:hover .entry-hint,
+.dark a:hover {
+    color: var(--accent);
+}
+
+/* Social icons accent */
+.dark .social-icons a:hover svg {
+    fill: var(--accent);
+}
+
+/* Code blocks with subtle border */
+.dark .highlight pre {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+}
+
+/* Tag pills */
+.dark .post-tags a {
+    background: var(--tertiary);
+    border: 1px solid var(--border);
+    color: var(--accent);
+}
+
+.dark .post-tags a:hover {
+    background: var(--accent);
+    color: var(--theme);
+}
+
+/* Search input */
+.dark #searchInput {
+    background: var(--entry);
+    border: 1px solid var(--border);
+    color: var(--primary);
+}
+
+.dark #searchInput:focus {
+    border-color: var(--accent);
+}
+
+/* Breadcrumbs */
+.dark .breadcrumbs a {
+    color: var(--secondary);
+}
+
+.dark .breadcrumbs a:hover {
+    color: var(--accent);
+}
+
+/* Table of contents */
+.dark .toc a:hover {
+    color: var(--accent);
+}
+
+/* Top scroll button */
+.dark #top-link {
+    background: var(--entry);
+    border: 1px solid var(--border);
+}
+
+.dark #top-link:hover {
+    background: var(--accent);
+    color: var(--theme);
+}

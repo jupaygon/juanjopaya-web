@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ .Permalink }}</title>
+    <script>
+        (function() {
+            var defined = ['/en/', '/es/'];
+            var lang = (navigator.language || navigator.userLanguage || 'en').toLowerCase();
+            var dest = lang.startsWith('es') ? '/es/' : '/en/';
+            if (defined.indexOf(window.location.pathname) === -1) {
+                window.location.replace(dest);
+            }
+        })();
+    </script>
+    <link rel="canonical" href="{{ .Permalink }}">
+    <noscript>
+        <meta http-equiv="refresh" content="0; url={{ .Permalink }}">
+    </noscript>
+</head>
+<body>
+    <p>Redirecting to <a href="{{ .Permalink }}">{{ .Permalink }}</a>...</p>
+</body>
+</html>

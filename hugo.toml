@@ -1,0 +1,124 @@
+baseURL = 'https://juanjopaya.com/'
+title = 'Code & AI'
+theme = 'PaperMod'
+paginate = 10
+copyright = '© 2026 Juanjo Payá'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[params]
+  env = 'production'
+  author = 'Juanjo Payá'
+  mainSections = ['posts']
+  defaultTheme = 'light'
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = true
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  displayFullLangName = true
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/jupaygon'
+  [[params.socialIcons]]
+    name = 'x'
+    url = 'https://x.com/jupaygon'
+  [[params.socialIcons]]
+    name = 'linkedin'
+    url = 'https://linkedin.com/in/jupaygon'
+  [[params.socialIcons]]
+    name = 'email'
+    url = 'mailto:juanjopaya@gmail.com'
+
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+
+
+  [params.assets]
+    disableFingerprinting = false
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ['title', 'permalink', 'summary', 'content']
+
+# ── Languages ────────────────────────────────────────────────
+
+[languages]
+
+  [languages.en]
+    languageCode = 'en'
+    languageName = '🇬🇧'
+    weight = 1
+    title = 'Code & AI'
+
+    [languages.en.params]
+      description = 'Senior Software Engineer · Building software since 2003 · AI-Augmented Development'
+      keywords = ['PHP', 'Symfony', 'Laravel', 'AI', 'Claude Code', 'Codex', 'AI-Augmented Development', 'Agentic Development', 'AI Agent', 'AI Skills', 'MCP', 'Prompt Engineering', 'Hexagonal Architecture', 'SOLID', 'Dependency Injection', 'Clean Architecture', 'Docker']
+
+
+    [[languages.en.menu.main]]
+      identifier = 'about'
+      name = 'About'
+      url = '/about/'
+      weight = 10
+    [[languages.en.menu.main]]
+      identifier = 'search'
+      name = 'Search'
+      url = '/search/'
+      weight = 20
+
+  [languages.es]
+    languageCode = 'es'
+    languageName = '🇪🇸'
+    weight = 2
+    title = 'Code & AI'
+
+    [languages.es.params]
+      description = 'Senior Software Engineer · Desarrollando software desde 2003 · AI-Augmented Development'
+      keywords = ['PHP', 'Symfony', 'Laravel', 'IA', 'Claude Code', 'Codex', 'AI-Augmented Development', 'Agentic Development', 'AI Agent', 'AI Skills', 'MCP', 'Prompt Engineering', 'Arquitectura Hexagonal', 'SOLID', 'Inyección de Dependencias', 'Clean Architecture', 'Docker']
+
+
+    [[languages.es.menu.main]]
+      identifier = 'about'
+      name = 'Sobre mí'
+      url = '/es/about/'
+      weight = 10
+    [[languages.es.menu.main]]
+      identifier = 'search'
+      name = 'Buscar'
+      url = '/es/search/'
+      weight = 20
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
