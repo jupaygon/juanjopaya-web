@@ -41,5 +41,5 @@ Además, este flujo de trabajo me ha abierto el abanico en cuanto a stack. Progr
 ## Contacto
 
 - GitHub: <a href="https://github.com/jupaygon" target="_blank">jupaygon</a>
-- X: <a href="https://x.com/jupaygon" target="_blank">jupaygon</a>
 - LinkedIn: <a href="https://linkedin.com/in/jupaygon" target="_blank">jupaygon</a>
+- X: <a href="https://x.com/jupaygon" target="_blank">jupaygon</a>
