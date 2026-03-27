@@ -46,11 +46,11 @@ buildExpired = false
     name = 'github'
     url = 'https://github.com/jupaygon'
   [[params.socialIcons]]
-    name = 'x'
-    url = 'https://x.com/jupaygon'
-  [[params.socialIcons]]
     name = 'linkedin'
     url = 'https://linkedin.com/in/jupaygon'
+  [[params.socialIcons]]
+    name = 'x'
+    url = 'https://x.com/jupaygon'
   [[params.socialIcons]]
     name = 'email'
     url = 'mailto:juanjopaya@gmail.com'
