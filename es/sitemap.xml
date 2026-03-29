@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://juanjopaya.com/es/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://juanjopaya.com/es/tags/ai/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,6 +26,97 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://juanjopaya.com/es/tags/ai/"
+                />
+  </url><url>
+    <loc>https://juanjopaya.com/es/posts/ai-skills-easyadmin5/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juanjopaya.com/en/posts/ai-skills-easyadmin5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://juanjopaya.com/es/posts/ai-skills-easyadmin5/"
+                />
+  </url><url>
+    <loc>https://juanjopaya.com/es/posts/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juanjopaya.com/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://juanjopaya.com/es/posts/"
+                />
+  </url><url>
+    <loc>https://juanjopaya.com/es/tags/claude-code/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juanjopaya.com/en/tags/claude-code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://juanjopaya.com/es/tags/claude-code/"
+                />
+  </url><url>
+    <loc>https://juanjopaya.com/es/tags/easyadmin/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juanjopaya.com/en/tags/easyadmin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://juanjopaya.com/es/tags/easyadmin/"
+                />
+  </url><url>
+    <loc>https://juanjopaya.com/es/tags/skills/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juanjopaya.com/en/tags/skills/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://juanjopaya.com/es/tags/skills/"
+                />
+  </url><url>
+    <loc>https://juanjopaya.com/es/tags/symfony/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juanjopaya.com/en/tags/symfony/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://juanjopaya.com/es/tags/symfony/"
+                />
+  </url><url>
+    <loc>https://juanjopaya.com/es/tags/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juanjopaya.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://juanjopaya.com/es/tags/"
                 />
   </url><url>
     <loc>https://juanjopaya.com/es/posts/ai-augmented-development/</loc>
@@ -39,32 +130,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://juanjopaya.com/es/posts/ai-augmented-development/"
-                />
-  </url><url>
-    <loc>https://juanjopaya.com/es/posts/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://juanjopaya.com/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://juanjopaya.com/es/posts/"
-                />
-  </url><url>
-    <loc>https://juanjopaya.com/es/tags/claude-code/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://juanjopaya.com/en/tags/claude-code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://juanjopaya.com/es/tags/claude-code/"
                 />
   </url><url>
     <loc>https://juanjopaya.com/es/tags/development/</loc>
@@ -91,19 +156,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://juanjopaya.com/es/tags/productivity/"
-                />
-  </url><url>
-    <loc>https://juanjopaya.com/es/tags/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://juanjopaya.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://juanjopaya.com/es/tags/"
                 />
   </url><url>
     <loc>https://juanjopaya.com/es/search/</loc>

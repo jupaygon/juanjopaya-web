@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://juanjopaya.com/en/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Skills: how to give your AI agent verified knowledge it does not have</title>
+      <link>https://juanjopaya.com/en/posts/ai-skills-easyadmin5/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://juanjopaya.com/en/posts/ai-skills-easyadmin5/</guid>
+      <description>Your AI agent does not know what changed in the latest version of the technologies you use. AI Skills fix that: structured, verified documentation optimized for machines. Here is how we build and use them.</description>
+    </item>
     <item>
       <title>AI-Augmented Development: my real experience working with an AI agent</title>
       <link>https://juanjopaya.com/en/posts/ai-augmented-development/</link>
