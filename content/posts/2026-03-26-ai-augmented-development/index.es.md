@@ -3,7 +3,7 @@ title: 'AI-Augmented Development: mi experiencia real trabajando con un agente I
 date: '2026-03-26'
 slug: 'ai-augmented-development'
 aliases:
-  - /es/posts/ai-augmented-development/
+  - /posts/ai-augmented-development/
 draft: false
 description: 'Llevo meses trabajando con un agente IA como colaborador de desarrollo. No es autocompletado. Es otro developer en el equipo. Esto es lo que he aprendido.'
 tags: ['ai', 'development', 'claude-code', 'productivity']
