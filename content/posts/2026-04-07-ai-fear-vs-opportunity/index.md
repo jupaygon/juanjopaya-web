@@ -6,7 +6,7 @@ draft: false
 description: 'Developers fear AI will take their jobs. History says otherwise. AI is the next abstraction layer — and it multiplies whoever uses it. But you cannot multiply by zero.'
 tags: ['ai', 'development', 'opinion', 'career']
 cover:
-  image: 'cover.png'
+  image: 'cover.jpg'
   alt: 'Developer facing AI fears and opportunities'
   relative: true
 ShowToc: true
