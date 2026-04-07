@@ -6,7 +6,7 @@ draft: false
 description: 'Los developers tienen miedo de que la IA les quite el trabajo. La historia dice lo contrario. La IA es la siguiente capa de abstracción — y multiplica a quien la usa. Pero no puedes multiplicar por cero.'
 tags: ['ai', 'development', 'opinion', 'career']
 cover:
-  image: '/en/posts/2026-04-07/ai-fear-vs-opportunity/cover.png'
+  image: '/en/posts/2026-04-07/ai-fear-vs-opportunity/cover.jpg'
   alt: 'Developer enfrentando miedos y oportunidades con la IA'
   relative: false
 ShowToc: true
