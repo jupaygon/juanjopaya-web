@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jupaygon.com/es/tags/claude-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Context window: cuando tu agente IA empieza a olvidar</title>
+      <link>https://jupaygon.com/es/posts/2026-04-14/context-window/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/es/posts/2026-04-14/context-window/</guid>
+      <description>El context window es el recurso más escaso del desarrollo con IA. Cuando tus políticas, protocolos y sesiones crecen, el agente empieza a ignorar instrucciones. Así lo hemos resuelto.</description>
+    </item>
     <item>
       <title>Dentro de Claude Code: 10 cosas interesantes analizando su código fuente</title>
       <link>https://jupaygon.com/es/posts/2026-04-01/claude-code-internals/</link>
