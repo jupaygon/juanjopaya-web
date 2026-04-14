@@ -2,7 +2,7 @@
 title: 'Context window: cuando tu agente IA empieza a olvidar'
 date: '2026-04-14'
 slug: 'context-window'
-draft: true
+draft: false
 description: 'El context window es el recurso más escaso del desarrollo con IA. Cuando tus políticas, protocolos y sesiones crecen, el agente empieza a ignorar instrucciones. Así lo hemos resuelto.'
 tags: ['ai', 'development', 'claude-code', 'productivity']
 cover:

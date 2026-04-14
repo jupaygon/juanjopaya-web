@@ -2,7 +2,7 @@
 title: 'Context window: when your AI agent starts forgetting'
 date: '2026-04-14'
 slug: 'context-window'
-draft: true
+draft: false
 description: 'The context window is the scarcest resource in AI-augmented development. When your policies, protocols, and sessions grow, the agent starts ignoring instructions. Here is how we fixed it.'
 tags: ['ai', 'development', 'claude-code', 'productivity']
 cover:
